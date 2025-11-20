@@ -42,7 +42,7 @@ IEEE 会员、中国电子学会会员、中国计算机学会会员、中国图
 
 主要科研成果
 ======
-### 部分学术论文 [Goolge scholar](https://scholar.google.com/citations?hl=zh-CN&user=UlSiZZ0AAAAJ):
+## 部分学术论文 [Goolge scholar](https://scholar.google.com/citations?hl=zh-CN&user=UlSiZZ0AAAAJ):
 1. **<u>Zhuo Chen</u>**, Liehuang Zhu, Peng Jiang, Jialing He, Zijian Zhang: A Generic Blockchain-based Steganography Framework with High Capacity via Reversible GAN, IEEE Conference on Computer Communications (INFOCOM 2024). **（CCF-A 类会议）**
 2. **<u>Zhuo Chen</u>**, Liehuang Zhu, Peng Jiang, Can Zhang, Feng Gao, Fuchun Guo: Exploring Unobservable Blockchain-based Covert Channel for Censorship-Resistant Systems, IEEE Transactions on Information Forensics and Security, 2024,19: 3380-3394. （**CCF-A 类期刊**，**SCI 一区**，**Top 期刊**，IF: 7.2）
 3. **<u>Zhuo Chen</u>**, Liehuang Zhu, Peng Jiang, Zijian Zhang, Chengxiang Si: Blockchain-based Covert Communication: A Detection Attack and Efficient Improvement, IEEE Transactions on Information Forensics and Security. （**CCF-A 类期刊**，**SCI 一区**，**Top 期刊**，IF: 7.2）
@@ -51,7 +51,7 @@ IEEE 会员、中国电子学会会员、中国计算机学会会员、中国图
 6. Jialing He, Junsen Feng, Shangwei Guo*, **<u>Zhuo Chen*</u>**, Yiwei Liu, Tao Xiang, Advancing Non-Intrusive Load Monitoring: Predicting Appliance-Level Power Consumption with Indirect Supervision[J]. IEEE Transactions on Network Science and Engineering, 2025. (**SCI 一区，IF：7.9**)
 
 
-### 部分发明专利：
+## 部分发明专利：
 1. 祝烈煌，**<u>陈卓</u>**，张子剑，袁祥博，沈桐舟，雷音，高峰，一种避免复用地址和提前协商私钥的区块链隐蔽通信方法，CN202310912891.7，已受理
 2. 祝烈煌，**<u>陈卓</u>**，张子剑，袁祥博，高峰，一种区块链隐蔽通信方法， CN202410430342.0，已受理
 3. 祝烈煌，刘琦，**<u>陈卓</u>**，高峰，一种基于区块链公链的时间隐蔽信道技术，ZL202310044077.8，已授权
@@ -59,7 +59,7 @@ IEEE 会员、中国电子学会会员、中国计算机学会会员、中国图
 5. 祝烈煌，张璨，徐畅，**<u>陈卓</u>**，一种用于区块链群组隐蔽传输的特殊交易筛选方法，ZL202210183791.0，已授权
 6. 祝烈煌，张璨，徐畅，**<u>陈卓</u>**，一种基于多区块链平台的数据隐蔽传输方法，ZL202210183802.5，已授权
 
-### 部分软件著作权：
+## 部分软件著作权：
 1. 祝烈煌，**<u>陈卓</u>**，曹昊天，基于动态地址的区块链隐蔽通信软件，2021SR0466831，已授权（导师一作）
 2. 祝烈煌，**<u>陈卓</u>**，万凯斌，基于 ECDSA 的区块链隐蔽通信软件，2021SR0466833，已授权（导师一作）
  
