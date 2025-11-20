@@ -29,8 +29,8 @@ author:
   bio              : " "
   employer         : "中心教学楼514室"
   location         : "北京理工大学中关村校区"
-  uri              : "chen.zhuo@bit.edu.cn" 
-  email            : 
+  uri              : # URL
+  email            : "chen.zhuo@bit.edu.cn " 
 
   # Academic websites
   academia         : # URL
