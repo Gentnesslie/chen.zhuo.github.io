@@ -27,8 +27,8 @@ author:
   name             : "陈卓"
   pronouns         : # example: "she/her"  
   bio              : " "
-  employer         : "北京理工大学"
-  location         : "北京市海淀区中关村南大街5号中心教学楼514"
+  employer         : "中心教学楼514室"
+  location         : "北京理工大学中关村校区"
   uri              : # URL
   email            : "chen.zhuo@bit.edu.cn" 
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
