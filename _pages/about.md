@@ -64,4 +64,11 @@ IEEE 会员、中国电子学会会员、中国计算机学会会员、中国图
 ### 部分软件著作权：
 1. 祝烈煌，**<u>陈卓</u>**，曹昊天，基于动态地址的区块链隐蔽通信软件，2021SR0466831，已授权（导师一作）
 2. 祝烈煌，**<u>陈卓</u>**，万凯斌，基于 ECDSA 的区块链隐蔽通信软件，2021SR0466833，已授权（导师一作）
- 
+
+
+#### About me:
+Chen Zhuo  
+Central teaching building, Room 514 South  
+Beijing Institute of Technology, No. 5, Zhongguancun South Street, Haidian District, Haidian  
+Beijing, CHINA  
+Email: chen.zhuo@bit.edu.cn  
