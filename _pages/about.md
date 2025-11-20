@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "陈卓 Chen Zhuo"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+This is my github page.
 
 教育背景
 ======
@@ -46,7 +44,7 @@ IEEE 会员、中国电子学会会员、中国计算机学会会员、中国图
 
 主要科研成果
 ======
-* 部分学术论文:
+* 部分学术论文[Goolge scholar](https://scholar.google.com/citations?hl=zh-CN&user=UlSiZZ0AAAAJ):
 1. **<u>Zhuo Chen</u>**, Liehuang Zhu, Peng Jiang, Jialing He, Zijian Zhang: A Generic Blockchain-based Steganography Framework with High Capacity via Reversible GAN, IEEE Conference on Computer Communications (INFOCOM 2024). **（CCF-A 类会议）**
 2. **<u>Zhuo Chen</u>**, Liehuang Zhu, Peng Jiang, Can Zhang, Feng Gao, Fuchun Guo: Exploring Unobservable Blockchain-based Covert Channel for Censorship-Resistant Systems, IEEE Transactions on Information Forensics and Security, 2024,19: 3380-3394. （**CCF-A 类期刊**，**SCI 一区**，**Top 期刊**，IF: 7.2）
 3. **<u>Zhuo Chen</u>**, Liehuang Zhu, Peng Jiang, Zijian Zhang, Chengxiang Si: Blockchain-based Covert Communication: A Detection Attack and Efficient Improvement, IEEE Transactions on Information Forensics and Security. （**CCF-A 类期刊**，**SCI 一区**，**Top 期刊**，IF: 7.2）
@@ -66,3 +64,11 @@ IEEE 会员、中国电子学会会员、中国计算机学会会员、中国图
 * 部分软件著作权：
 1. 祝烈煌，**<u>陈卓</u>**，曹昊天，基于动态地址的区块链隐蔽通信软件，2021SR0466831，已授权（导师一作）
 2. 祝烈煌，**<u>陈卓</u>**，万凯斌，基于 ECDSA 的区块链隐蔽通信软件，2021SR0466833，已授权（导师一作）
+
+
+**Contact:**
+Chuan Zhang  
+Central teaching building, Room 514 South  
+Beijing Institute of Technology, No. 5, Zhongguancun South Street, Haidian District, Haidian  
+Beijing, CHINA  
+Email: chen.zhuo@bit.edu.cn  
