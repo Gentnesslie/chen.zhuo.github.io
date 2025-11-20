@@ -30,10 +30,10 @@ author:
   employer         : "中心教学楼514室"
   location         : "北京理工大学中关村校区"
   uri              : # URL
-  email            : # URL
+  email            : "chen.zhuo@bit.edu.cn " 
 
   # Academic websites
-  academia         : "chen.zhuo@bit.edu.cn " 
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=UlSiZZ0AAAAJ"
   inspire-hep      : # URL
